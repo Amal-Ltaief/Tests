@@ -1,0 +1,18 @@
+
+2020-09-18T19:37:07.166189 : [User 5 : logging .. ]
+2020-09-18T19:37:29.735761 : User 5 chose the offer ..
+2020-09-18T19:38:20.229158 : User 5 : Error while taking the offer
+2020-09-18T19:38:21.089566 : [USER 5 : Quit]
+2020-09-18T19:38:29.842365 : [User 6 : logging .. ]
+2020-09-18T19:38:52.832327 : User 6 chose the offer ..
+2020-09-18T19:39:43.260287 : User 6 took the offer!
+2020-09-18T19:39:44.224885 : [USER 6 : Quit]
+2020-09-18T19:37:10.751059 : [User 3 : logging .. ]
+2020-09-18T19:37:32.173426 : User 3 chose the offer ..
+2020-09-18T19:38:22.581394 : User 3 took the offer!
+2020-09-18T19:38:24.152766 : [USER 3 : Quit]
+2020-09-18T19:38:38.719831 : [User 4 : logging .. ]
+2020-09-18T19:39:00.447183 : User 4 chose the offer ..
+2020-09-18T19:39:50.882516 : User 4 : Error while taking the offer
+2020-09-18T19:39:51.911981 : [USER 4 : Quit]
+ *************** 
